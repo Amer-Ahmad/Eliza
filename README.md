@@ -8,30 +8,30 @@ to properly use this software you have to answer with short meaningful sentences
 will sometimes make sense to Eliza.
 
 an example of a conversation with Eliza.
-[Eliza] Hi, I'm Eliza the psychotherapist. What is your name?
-[User] Hey it's Amer
-[Eliza] Hey Amer, how are you feeling today?
-[Amer] I'm not good
-[Eliza] Why are you not good?
-[Amer] I killed someone
-[Eliza] why did you kill  someone?
-[Amer] I don't know
-[Eliza] so anything you like to add?
-[Amer] I feel guilty
-[Eliza] do you usually feel like ' guilty' ?
-[Amer] No
-[Eliza] No? tell me more..
-[Amer] I do not think I am a killer
-[Amer] I do not!!
-[Eliza] what do you think about your life?
-[Amer] what do you mean
-[Eliza] me? it's about you not me, tell me what do you mean ?
-[Amer] ok?
-[Eliza] alright alright alright (*matthew mcconaughey voice*)
-[Amer] hahaha that was funny
-[Eliza] glad that I made you laugh..
-[Amer] goodbye Eliza
-[Eliza] have a nice day! see you next time in the next session :")
+#[Eliza] Hi, I'm Eliza the psychotherapist. What is your name?
+#[User] Hey it's Amer
+#[Eliza] Hey Amer, how are you feeling today?
+#[Amer] I'm not good
+#[Eliza] Why are you not good?
+#[Amer] I killed someone
+#[Eliza] why did you kill  someone?
+#[Amer] I don't know
+#[Eliza] so anything you like to add?
+#[Amer] I feel guilty
+#[Eliza] do you usually feel like ' guilty' ?
+#[Amer] No
+#[Eliza] No? tell me more..
+#[Amer] I do not think I am a killer
+#[Amer] I do not!!
+#[Eliza] what do you think about your life?
+#[Amer] what do you mean
+#[Eliza] me? it's about you not me, tell me what do you mean ?
+#[Amer] ok?
+#[Eliza] alright alright alright (*matthew mcconaughey voice*)
+#[Amer] hahaha that was funny
+#[Eliza] glad that I made you laugh..
+#[Amer] goodbye Eliza
+#[Eliza] have a nice day! see you next time in the next session :")
 
 
 the algorithm that I used to program Eliza is first trying the match the user input with some familiar patterns,
